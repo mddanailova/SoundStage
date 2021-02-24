@@ -1,5 +1,5 @@
 * {
-    background-color: white;
+    background-color: black;
 
 }
 
@@ -107,20 +107,25 @@
 }
 
 .galleri1-8 img {
-    width: 28%;
-    float: center;
+    width: 37%;
+    float: left;
     margin-left: 1rem;
     margin-top: 1rem;
 }
 
 .galleri1-9 img {
-    width: 100%;
-    float: right;
+    width: 28%;
+    float: left;
+    margin-left: 0.5rem;
+    margin-top: 1rem;
+
 }
 
 .galleri1-10 img {
-    width: 100%;
-    float: right;
+    width: 37%;
+    float: left;
+    margin-left: 1rem;
+    margin-top: 1rem;
 }
 
 
