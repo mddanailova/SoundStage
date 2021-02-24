@@ -1,3 +1,8 @@
+* {
+    background-color: white;
+
+}
+
 /*  HEADER start  */
 
 
@@ -16,12 +21,13 @@
 
 /*  BIOGRAFI start  */
 
+
 .bio {
     color: white;
     background-color: black;
-    padding-left: 5rem;
-    padding-right: 2rem;
-    padding-bottom: 2rem;
+    padding-left: 3.5rem;
+    padding-right: 3.5rem;
+    padding-bottom: 7rem;
     float: left;
 
 }
@@ -54,43 +60,57 @@
 }
 
 .galleri1-1 img {
-    width: 100%;
-    float: right;
+    width: 28%;
+    float: left;
+    margin-left: 2rem;
+
 }
 
 .galleri1-2 img {
-    width: 100%;
+    width: 28%;
     float: right;
+    margin-left: 0.5rem;
 }
 
 .galleri1-3 img {
-    width: 100%;
-    float: right;
+    width: 28%;
+    float: left;
+    margin-top: 1rem;
+    margin-left: 2rem;
 }
 
 .galleri1-4 img {
-    width: 100%;
+    width: 28%;
     float: right;
+    margin-top: 1rem
 }
 
 .galleri1-5 img {
-    width: 100%;
-    float: right;
+    width: 28%;
+    float: left;
+    margin-left: 0.5rem;
+    margin-top: 1rem;
 }
 
 .galleri1-6 img {
-    width: 100%;
-    float: right;
+    width: 37%;
+    float: left;
+    margin-top: 1rem;
+    margin-left: 1rem;
+
 }
 
 .galleri1-7 img {
-    width: 100%;
+    width: 28%;
     float: right;
+    margin-top: 1rem;
 }
 
 .galleri1-8 img {
-    width: 100%;
-    float: right;
+    width: 28%;
+    float: center;
+    margin-left: 1rem;
+    margin-top: 1rem;
 }
 
 .galleri1-9 img {
