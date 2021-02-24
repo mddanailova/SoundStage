@@ -25,15 +25,15 @@
 .bio {
     color: white;
     background-color: black;
-    padding-left: 2.5rem;
-    padding-right: 3.5rem;
+    margin-left: 4rem;
+    margin-right: 2rem;
     padding-bottom: 7rem;
     float: left;
 
 }
 
 .bio h1 {
-    font-size: 20px;
+    font-size: 50px;
     padding-top: 1rem;
     padding-bottom: 0.5rem;
     text-align: center;
@@ -42,7 +42,8 @@
 
 
 .bio p {
-    font-size: 12px;
+    font-size: 18px;
+    width: 450px;
 
 
 }
@@ -54,16 +55,10 @@
 
 /*  GALLERI 1 start  */
 
-.galleri1 {
-    float: right;
-    background-color: black;
-}
-
 .galleri1-1 img {
     width: 28%;
     float: left;
     margin-left: 3rem;
-
 }
 
 .galleri1-2 img {
@@ -75,57 +70,57 @@
 .galleri1-3 img {
     width: 28%;
     float: left;
-    margin-top: 1rem;
+    margin-top: 2rem;
     margin-left: 3rem;
 }
 
 .galleri1-4 img {
     width: 28%;
     float: right;
-    margin-top: 1rem
+    margin-top: 2rem
 }
 
 .galleri1-5 img {
     width: 28%;
-    float: left;
-    margin-left: 0.5rem;
-    margin-top: 1rem;
+    float: right;
+    margin-right: 2rem;
+    margin-top: 2rem;
 }
 
 .galleri1-6 img {
     width: 37%;
-    float: left;
-    margin-top: 1rem;
+    float: right;
     margin-left: 1rem;
+    margin-right: 2rem;
 
 }
 
 .galleri1-7 img {
-    width: 28%;
-    float: right;
-    margin-top: 1rem;
+    width: 37%;
+    float: left;
+    margin-top: 2rem;
+    margin-left: 2rem;
 }
 
 .galleri1-8 img {
-    width: 37%;
-    float: left;
+    width: 28%;
+    float: right;
     margin-left: 1rem;
-    margin-top: 1rem;
 }
 
 .galleri1-9 img {
     width: 28%;
     float: left;
-    margin-left: 0.5rem;
-    margin-top: 1rem;
+    margin-left: 2rem;
+    margin-top: 2rem;
 
 }
 
 .galleri1-10 img {
     width: 37%;
     float: left;
-    margin-left: 1rem;
-    margin-top: 1rem;
+    margin-left: 2rem;
+    margin-top: 2rem;
 }
 
 
