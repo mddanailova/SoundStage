@@ -25,7 +25,7 @@
 .bio {
     color: white;
     background-color: black;
-    padding-left: 3.5rem;
+    padding-left: 2.5rem;
     padding-right: 3.5rem;
     padding-bottom: 7rem;
     float: left;
@@ -62,7 +62,7 @@
 .galleri1-1 img {
     width: 28%;
     float: left;
-    margin-left: 2rem;
+    margin-left: 3rem;
 
 }
 
@@ -76,7 +76,7 @@
     width: 28%;
     float: left;
     margin-top: 1rem;
-    margin-left: 2rem;
+    margin-left: 3rem;
 }
 
 .galleri1-4 img {
