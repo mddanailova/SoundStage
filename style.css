@@ -1,0 +1,88 @@
+body {
+  margin: 0;
+  font-family: 'Lexend Mega', sans-serif;
+  line-height: 1.6;
+  background-color: black;
+  color:white;
+}
+
+h1 {
+  text-transform: uppercase;
+}
+
+.row {
+  display: flex;
+}
+
+.column {
+  flex: 50%;
+  height: 500px;
+  padding: 0px;
+  text-align: center;
+}
+
+.oppe {
+    height: 250px;
+    background: red;
+    padding: 5px 45px 5px 45px;
+}
+
+.opv {
+    float: left;
+    width: 57%;
+    height: 250px;
+    margin-right: 2%;
+  }
+
+.etv {
+    background: pink;
+    width: 100%;
+    height: 48%;
+    margin-bottom: 3%;
+}
+
+.tov {
+    background: yellow;
+    width: 100%;
+    height: 48%;
+}
+
+.oph {
+    float: right;
+    background: orange;
+    width: 41%;
+    height: 250px;
+}
+
+.nede {
+    height: 250px;
+    background: blue;
+    padding: 5px 45px 5px 45px;
+}
+
+.nedv {
+    float: left;
+    background: grey;
+    width: 28%;
+    height: 100%;
+    margin-right: 2%;
+}
+
+.nedh {
+    float: left;
+    background: brown;
+    width: 70%;
+    height: 100%;
+}
+
+
+@media screen and (max-width: 860px) {
+  .column {
+  width: 100%;
+  }
+
+  .row {
+    display: flex;
+   flex-direction: column;
+  }
+}
